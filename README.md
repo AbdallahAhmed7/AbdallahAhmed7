@@ -26,7 +26,7 @@
 
 
 
-### 🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Tools
 
 | 🐍 Languages / Libraries | 🗄️ Databases | ⚙️ Tools |
 |----------------------|-----------|-------|
