@@ -39,6 +39,22 @@
 | 🐍 Languages / Libraries | 🗄️ Databases | ⚙️ Tools |
 |----------------------|-----------|-------|
 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4A77B9?style=for-the-badge&logo=seaborn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> |
+---
+
+## 📌My Work 
+
+Here are some of my projects that showcase my **Data Engineering, Web Scraping & ETL skills**:
+
+- **[User Data ETL & Analytics Pipeline](https://github.com/abdallahahmed7/User-Data-ETL-Analytics-Pipeline)** – Python project that extracts, transforms, and analyzes user data; visualized with Pandas & Matplotlib; fully Dockerized 🐳  
+
+- **[Amazon Price Intelligence Tool](https://github.com/AbdallahAhmed7/Amazon-Price-Intelligence)** – Tracks product prices over time; sends alerts; uses Python, Pandas, and scheduling ⏰🌐
+  
+- **[SQL Data Warehouse](https://github.com/AbdallahAhmed7/sql-data-warehouse)** – Complete ELT pipeline built with SQL using a **Medallion Architecture**. Raw CSV data transformed into a high-performance Star Schema for analytics. Includes Bronze, Silver, and Gold layers for data quality and lineage 🏗️  
+ 
+
+- **[Door Locker Security System](https://github.com/AbdallahAhmed7/Door_Locker_Security_System_Atmega32)** – Embedded system with **ATmega32 MCUs**, keypad & LCD interface, password-based door control, and alarm system 🔒
+
+
 
 
 ---
