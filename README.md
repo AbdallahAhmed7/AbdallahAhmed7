@@ -1,20 +1,28 @@
-<h1 align="center">Hi 👋, I'm Abdallah Ahmed</h1>
-<h3 align="center">Data Engineer & Analyst</h3>
 
----
+<h1 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8ece&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hi+There+👋,+I'm+Abdallah;Aspiring+Data+Engineer+%7C+Python+Developer+🚀;Building+ETL+%7C+Data+Analytics+📊;Web+Scraping+%26+Automation+Enthusiast+🕸️">
+</p>
+<div align="center">
+  
+</h1>
+
+
+
+
 <!-- Container -->
 <table>
 <tr>
 <td valign="top" width="50%">
 
-## 🚀 About Me
+## 💻 About Me
 
-- 🎓 Learning **Data Engineering & Analysis**  
-- 🐍 Strong in **Python** and **SQL**  
-- 🛠️ Background in **C/C++**  
-- 🌐 Interested in **Web Scraping**  
-- 📊 Passionate about **cleaning, transforming & analyzing data**  
-
+- 🎓 Aspiring **Data Engineer**  
+- 🐍 Skilled in **Python** & **SQL**  
+- 🛠️ Background in **Embedded C** & **C++**  
+- 🌐 **Web Scraping & Automation Enthusiast** 
+- 📊 Passionate about **building ETL Pipelines** & **Analyzing Data**
+  
 </td>
 <td valign="top" width="50%">
 
@@ -26,7 +34,7 @@
 
 
 
-## 🚀 Tech Stack & Tools
+## ⚙️ Tech Stack & Tools
 
 | 🐍 Languages / Libraries | 🗄️ Databases | ⚙️ Tools |
 |----------------------|-----------|-------|
