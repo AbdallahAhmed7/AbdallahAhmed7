@@ -1,7 +1,7 @@
 
 <h1 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8ece&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hi+There+👋,+I'm+Abdallah;Aspiring+Data+Engineer+%7C+Python+Developer+🚀;Building+ETL+%7C+Data+Analytics+📊;Web+Scraping+%26+Automation+Enthusiast+🕸️">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8ece&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hi+There+👋,+I'm+Abdallah;Aspiring+Data+Engineer+%7C+Python+Developer+🚀;Building+ETL+%7C+Analysing+Data+📊;Web+Scraping+%26+Automation+Enthusiast+🕸️">
 </p>
 <div align="center">
   
@@ -21,7 +21,7 @@
 - 🐍 Skilled in **Python** & **SQL**  
 - 🛠️ Background in **Embedded C** & **C++**  
 - 🌐 **Web Scraping & Automation Enthusiast** 
-- 📊 Passionate about **building ETL Pipelines** & **Analyzing Data**
+- 📊 Passionate about **Building ETL Pipelines** & **Analyzing Data**
   
 </td>
 <td valign="top" width="50%">
