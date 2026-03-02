@@ -33,6 +33,22 @@
 </table>
 
 
+## 🛠️ Tech Stack
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
+[![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) 
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-E41A1C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) 
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6F61?style=for-the-badge&logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/) 
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+---
 
 ## ⚙️ Tech Stack & Tools
 
@@ -41,7 +57,7 @@
 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4A77B9?style=for-the-badge&logo=seaborn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> |
 ---
 
-## 📌My Work 
+## 💼 Projects
 
 Here are some of my projects that showcase my **Data Engineering, Web Scraping & ETL skills**:
 
@@ -55,36 +71,14 @@ Here are some of my projects that showcase my **Data Engineering, Web Scraping &
 - **[Door Locker Security System](https://github.com/AbdallahAhmed7/Door_Locker_Security_System_Atmega32)** – Embedded system with **ATmega32 MCUs**, keypad & LCD interface, password-based door control, and alarm system 🔒
 
 
-
-
 ---
-## 💼 Projects & Work
-
-<p align="center">
-  <!-- Project 1 -->
-  <a href="https://github.com/AbdallahAhmed7/Amazon-Price-Intelligence">
-    <img src="https://img.shields.io/badge/Amazon_Price_Intelligence-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Amazon-Price-Intelligence" />
-  </a>
-
-  <!-- Project 2 -->
-  <a href="https://github.com/AbdallahAhmed7/sql-data-warehouse">
-    <img src="https://img.shields.io/badge/sql_datawarehouse-SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" alt="sql-data-warehouse" />
-  </a>
-
-  <!-- Project 3 -->
-  <a href="https://github.com/AbdallahAhmed7/Door_Locker_Security_System_Atmega32">
-     <img src="https://img.shields.io/badge/Door_Locker_Security-Embedded C-red?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C Project" />
-  </a>
-</p>>
 
 
-## 💡 What I Do
+## 🎓 Education
 
-✔️ Data Cleaning & Preprocessing  
-✔️ Writing Advanced SQL Queries  
-✔️ Building ETL Pipelines  
-✔️ Database Design (ERD, Constraints, Relationships)  
-✔️ Data Visualization & Reporting  
+| 📜 Degree           | 💻 Major         | 🏫 University     | 🗓️ Graduation Date |
+|---------------------|------------------|------------------|-------------------|
+| B.Sc. Engineering | Mechatronics Engineering | [Cairo University](https://cu.edu.eg/) |     June 2024  |
 
 ---
 
