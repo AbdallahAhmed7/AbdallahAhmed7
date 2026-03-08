@@ -73,50 +73,27 @@
 ### 🕸️ Scraping Frameworks: <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Scrapy-60A830?style=for-the-badge&logo=scrapy&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/BeautifulSoup-4E9A06?style=for-the-badge&logo=python&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/LXML-2EAD33?style=for-the-badge&logo=python&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Requests-005571?style=for-the-badge&logo=python&logoColor=white" height="22" />
 
 
-------
-### 🔡 Languages & Core
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
-
-### 🗄️ Databases & Data Warehousing
-<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="45" /> <img src="https://cdn.simpleicons.org/amazonredshift/8C4FFF" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" />
-
-### 🏗️ Data Engineering & Big Data
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="45" /> <img src="https://cdn.simpleicons.org/databricks/FF3621" height="45" /> <img src="https://cdn.simpleicons.org/dbt/FF694B" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="45" />
-
-### 📡 Orchestration & Real-Time Streaming
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="45" /> <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="45" />
-
-### 📈 Data Analysis & Visualization
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="45" />
-
-### ♾️ DevOps & CI/CD
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
-
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" height="45" />
-
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="45" />
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" height="45" />
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonredshift.svg" height="45" />
-
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="45" />
-
-
+---
 ## 💼 Projects
 
-Here are some of my projects that showcase my **Data Engineering, Web Scraping & ETL skills**:
+### 🔹 [User Data ETL & Analytics Pipeline](https://github.com/abdallahahmed7/User-Data-ETL-Analytics-Pipeline)
+> **Stack:** Python · Pandas · Matplotlib · Docker
+- Extracts, transforms, and loads user data end-to-end into an analytics-ready format
+- Visualized insights using Pandas & Matplotlib; fully containerized with Docker 🐳
 
-- **[User Data ETL & Analytics Pipeline](https://github.com/abdallahahmed7/User-Data-ETL-Analytics-Pipeline)** – Python project that extracts, transforms, and analyzes user data; visualized with Pandas & Matplotlib; fully Dockerized 🐳  
+### 🔹 [Amazon Price Intelligence Tool](https://github.com/AbdallahAhmed7/Amazon-Price-Intelligence)
+> **Stack:** Python · Pandas · Requests · BeautifulSoup · Scheduling
+- Tracks product prices over time across Amazon listings
+- Automatically sends price-drop alerts using a scheduled Python pipeline ⏰
 
-- **[Amazon Price Intelligence Tool](https://github.com/AbdallahAhmed7/Amazon-Price-Intelligence)** – Tracks product prices over time; sends alerts; uses Python, Pandas, and scheduling ⏰🌐
-  
-- **[SQL Data Warehouse](https://github.com/AbdallahAhmed7/sql-data-warehouse)** – Complete ELT pipeline built with SQL using a **Medallion Architecture**. Raw CSV data transformed into a high-performance Star Schema for analytics. Includes Bronze, Silver, and Gold layers for data quality and lineage 🏗️  
- 
+### 🔹 [SQL Data Warehouse — Medallion Architecture](https://github.com/AbdallahAhmed7/sql-data-warehouse)
+> **Stack:** SQL · ELT · Star Schema · Bronze / Silver / Gold Layers
+- Complete ELT pipeline transforming raw CSV data into a high-performance Star Schema
+- Implements full **Medallion Architecture** (Bronze → Silver → Gold) for data quality & lineage 🏗️
 
-- **[Door Locker Security System](https://github.com/AbdallahAhmed7/Door_Locker_Security_System_Atmega32)** – Embedded system with **ATmega32 MCUs**, keypad & LCD interface, password-based door control, and alarm system 🔒
-
+### 🔹 [Door Locker Security System](https://github.com/AbdallahAhmed7/Door_Locker_Security_System_Atmega32)
+> **Stack:** Embedded C · ATmega32 · Keypad · LCD
+- Password-based door control system with alarm and LCD feedback built on dual ATmega32 MCUs 🔒
 
 ---
 
@@ -152,5 +129,8 @@ Here are some of my projects that showcase my **Data Engineering, Web Scraping &
 <p align="center">
   🚀 Always Learning | Always Building | Always Improving
 </p>
+
+
+
 
 
