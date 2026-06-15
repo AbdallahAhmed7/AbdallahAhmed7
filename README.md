@@ -1,14 +1,6 @@
-
-<h1 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8ece&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hi+There+👋,+I'm+Abdallah;Aspiring+Data+Engineer+%7C+Python+Developer+🚀;Building+ETL+%7C+Analysing+Data+📊;Web+Scraping+%26+Automation+Enthusiast+🕸️">
-</p>
-<div align="center">
-  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8ece&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hi+There+👋,+I'm+Abdallah;Data+Engineer+%7C+Analyst+📊;">
 </h1>
-
-
-
 
 <!-- Container -->
 <table>
@@ -17,120 +9,125 @@
 
 ## 💻 About Me
 
-- 🎓 Aspiring **Data Engineer**  
-- 🐍 Skilled in **Python** & **SQL**  
-- 🛠️ Background in **Embedded C** & **C++**  
-- 🌐 **Web Scraping & Automation Enthusiast** 
-- 📊 Passionate about **Building ETL Pipelines** & **Analyzing Data**
+- 🎓 B.Sc. Mechatronics Engineering — **Cairo University** 
+- 🏫 **Data Engineering Graduate @ ITI** 
+- 🔧 Builds end-to-end ETL/ELT pipelines, cloud data warehouses & real-time streaming systems
+- ☁️ Works with **Spark, Kafka, Airflow, dbt, Snowflake & AWS** on production-grade data workflows
+- 📊 Turns raw data into insights through dimensional modeling, analytics & Power BI dashboards
+- 🚀 Passionate about scalable data architecture and solving real problems with data
+
   
 </td>
 <td valign="top" width="50%">
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding GIF"/>
-
 </td>
 </tr>
 </table>
 
 ---
 
-<img src="https://github.com/user-attachments/assets/243c0afb-b982-41f7-a011-9299a622188c" width="45" height="45" /> <img src="https://github.com/user-attachments/assets/243c0afb-b982-41f7-a011-9299a622188c" width="45" height="45" /> 
-
----
----
----
 ## 🛠️ Tech Stack
 
-### 🔡 Languages & Core:  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+### 💻 Programming
+![Python](https://skillicons.dev/icons?i=python)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bash](https://skillicons.dev/icons?i=bash)
+![C++](https://skillicons.dev/icons?i=cpp)
 
-### 🗄️ Databases & Data Warehousing: <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+### ⚙️ Data Engineering
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-### 🏗️ Data Engineering & Big Data: <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Hadoop-662113?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+### ☁️ Cloud & Databases
+![AWS](https://skillicons.dev/icons?i=aws)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-### 📡 Orchestration & Real-Time Streaming: <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Kinesis-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-### 📈 Data Analysis & Visualization: <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4A77B9?style=for-the-badge&logo=seaborn&logoColor=white" /> 
-
-### ♾️ DevOps & CI/CD: <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-
-### 🕸️ Scraping Frameworks: <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Scrapy-60A830?style=for-the-badge&logo=scrapy&logoColor=white" /> <img src="https://img.shields.io/badge/BeautifulSoup-4E9A06?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LXML-2EAD33?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Requests-005571?style=for-the-badge&logo=python&logoColor=white" />
-
----
----
-### 🔡 Languages & Core: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20"/>
-
-### 🗄️ Databases & Data Warehousing: <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="22" />
-
-### 🏗️ Data Engineering & Big Data: <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Apache_Hadoop-662113?style=for-the-badge&logo=apachehadoop&logoColor=white" height="22" />
-
-### 📡 Orchestration & Real-Time Streaming: <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Amazon_Kinesis-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22" />
-
-### 📈 Data Analysis & Visualization: <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="22" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Seaborn-4A77B9?style=for-the-badge&logo=seaborn&logoColor=white" height="22" />
-
-### ♾️ DevOps & CI/CD: <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="22" />
-
-### 🕸️ Scraping Frameworks: <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Scrapy-60A830?style=for-the-badge&logo=scrapy&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/BeautifulSoup-4E9A06?style=for-the-badge&logo=python&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/LXML-2EAD33?style=for-the-badge&logo=python&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Requests-005571?style=for-the-badge&logo=python&logoColor=white" height="22" />
-
+### 🔧 DevOps & BI
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
+
 ## 💼 Projects
 
-### 🔹 [User Data ETL & Analytics Pipeline](https://github.com/abdallahahmed7/User-Data-ETL-Analytics-Pipeline)
-> **Stack:** Python · Pandas · Matplotlib · Docker
-- Extracts, transforms, and loads user data end-to-end into an analytics-ready format
-- Visualized insights using Pandas & Matplotlib; fully containerized with Docker 🐳
+### 🔹 [Football Analytics & Live Match Intelligence](https://github.com/AbdallahAhmed7/Football-Analytics-Live-Match-Intelligence)
+> **Stack:** Spark · Kafka · Airflow · dbt · Snowflake · InfluxDB · AWS S3 · Power BI · Grafana
 
-### 🔹 [Amazon Price Intelligence Tool](https://github.com/AbdallahAhmed7/Amazon-Price-Intelligence)
-> **Stack:** Python · Pandas · Requests · BeautifulSoup · Scheduling
-- Tracks product prices over time across Amazon listings
-- Automatically sends price-drop alerts using a scheduled Python pipeline ⏰
-
-### 🔹 [SQL Data Warehouse — Medallion Architecture](https://github.com/AbdallahAhmed7/sql-data-warehouse)
-> **Stack:** SQL · ELT · Star Schema · Bronze / Silver / Gold Layers
-- Complete ELT pipeline transforming raw CSV data into a high-performance Star Schema
-- Implements full **Medallion Architecture** (Bronze → Silver → Gold) for data quality & lineage 🏗️
-
-### 🔹 [Door Locker Security System](https://github.com/AbdallahAhmed7/Door_Locker_Security_System_Atmega32)
-> **Stack:** Embedded C · ATmega32 · Keypad · LCD
-- Password-based door control system with alarm and LCD feedback built on dual ATmega32 MCUs 🔒
+- Built an end-to-end **Lambda + Medallion Architecture** pipeline ingesting **3M+ football records** from Transfermarkt into AWS S3, processing with Spark, and modeling a Galaxy Schema using dbt in Snowflake
+- Added a **Kafka + Spark Structured Streaming** layer to simulate live match events, orchestrated with Airflow and visualized through real-time Grafana dashboards and Power BI analytics
 
 ---
 
+### 🔹 [End-to-End MovieLens Data Pipeline](https://github.com/AbdallahAhmed7/movielens-end-to-end-data-pipeline)
+> **Stack:** Airflow · dbt · Snowflake · AWS S3 · Docker · Power BI
+
+- Designed and orchestrated a cloud-native ELT pipeline loading **20M+ records** from AWS S3 into Snowflake using **Medallion Architecture** with incremental loading
+- Built dbt models with Star Schema, enforced data quality tests, and created Power BI dashboards for movie and rating analytics
+
+---
+
+### 🔹 [Bookstore Data Warehouse & ETL Pipeline](https://github.com/AbdallahAhmed7/gravity-books-data-warehouse)
+> **Stack:** SSIS · SQL Server · T-SQL · Power BI
+
+- Architected a **Galaxy Schema** data warehouse and built SSIS ETL pipelines with **SCD Type 1 & 2** handling
+- Created Power BI dashboards covering revenue, customer, and shipping analytics
+
+---
+
+### 🔹 [User Data ETL & Analytics Pipeline](https://github.com/AbdallahAhmed7/User-Data-ETL-Analytics-Pipeline)
+> **Stack:** Python · Pandas · Seaborn · Docker · REST API
+
+- Built a **containerized ETL pipeline** with Docker to ingest and process paginated JSON data from a REST API
+- Applied feature engineering and statistical analysis with Pandas & NumPy; visualized results with Matplotlib and Seaborn
+
+---
+
+### 🔹 [Amazon Price Intelligence Tool](https://github.com/AbdallahAhmed7/Amazon-Price-Intelligence)
+> **Stack:** Python · Pandas · Requests · BeautifulSoup · SMTP
+
+- Automated web scraping pipeline tracking Amazon product prices over time
+- Implemented an **SMTP alert system** delivering real-time email notifications on price threshold breaches ⏰
+
+---
 
 ## 🎓 Education
 
-| 📜 Degree           | 💻 Major         | 🏫 University     | 🗓️ Graduation Date |
-|---------------------|------------------|------------------|-------------------|
-| B.Sc. Engineering | Mechatronics Engineering | [Cairo University](https://cu.edu.eg/) |     June 2024  |
+| 📜 Degree | 💻 Major | 🏫 University | 🗓️ Period |
+|---|---|---|---|
+| B.Sc. Engineering | Mechatronics Engineering | [Cairo University](https://cu.edu.eg/) | Sep 2019 – Jun 2024 |
+
+> 🏆 Graduation Project: **Advanced Driver Assistance System** — mentored by **Valeo**, graded **Excellent**
+> Ranked **top 33 / 500+** finalists in the Valeo Graduation Project Program
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abdallahahmed7/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
   </a>
-  
-  <!-- Email -->
   <a href="mailto:abdallahshehab00@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" />
   </a>
-  
-  <!-- GitHub -->
   <a href="https://github.com/abdallahahmed7" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" />
   </a>
 </p>
+
 ---
 
 <p align="center">
   🚀 Always Learning | Always Building | Always Improving
 </p>
-
-
-
-
-
