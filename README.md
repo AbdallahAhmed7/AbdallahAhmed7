@@ -146,7 +146,13 @@
 - Applied feature engineering and statistical analysis with Pandas & NumPy; visualized results with Matplotlib and Seaborn
 
 ---
+### 🌌 [Cyber Clock – Jenkins CI/CD Pipeline](https://github.com/AbdallahAhmed7/Cyber-Clock-Jenkins-Pipeline)
+> **Stack:** Jenkins · Docker · Python · Flask · pytest
 
+- Built a complete **CI/CD pipeline** with Jenkins integrating automated Build, Test, and Deploy stages triggered directly from GitHub source control
+- Containerized a Flask-based cyberpunk-themed web application with Docker, executed automated testing using pytest, and deployed the application as a running Docker container
+
+---
 ### 🛒 [Amazon Price Intelligence Tool](https://github.com/AbdallahAhmed7/Amazon-Price-Intelligence)
 > **Stack:** Python · Pandas · Requests · BeautifulSoup · SMTP
 
