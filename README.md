@@ -110,11 +110,12 @@
       <sub><b>PowerBI</b></sub>      
   </tr>
 </table>
+
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
-### 🔹 [Football Analytics & Live Match Intelligence](https://github.com/AbdallahAhmed7/Football-Analytics-Live-Match-Intelligence)
+### ⚽ [Football Analytics & Live Match Intelligence](https://github.com/AbdallahAhmed7/Football-Analytics-Live-Match-Intelligence)
 > **Stack:** Spark · Kafka · Airflow · dbt · Snowflake · InfluxDB · AWS S3 · Power BI · Grafana
 
 - Built an end-to-end **Lambda + Medallion Architecture** pipeline ingesting **3M+ football records** from Transfermarkt into AWS S3, processing with Spark, and modeling a Galaxy Schema using dbt in Snowflake
@@ -122,7 +123,7 @@
 
 ---
 
-### 🔹 [End-to-End MovieLens Data Pipeline](https://github.com/AbdallahAhmed7/movielens-end-to-end-data-pipeline)
+### 🎬 [End-to-End MovieLens Data Pipeline](https://github.com/AbdallahAhmed7/movielens-end-to-end-data-pipeline)
 > **Stack:** Airflow · dbt · Snowflake · AWS S3 · Docker · Power BI
 
 - Designed and orchestrated a cloud-native ELT pipeline loading **20M+ records** from AWS S3 into Snowflake using **Medallion Architecture** with incremental loading
@@ -130,7 +131,7 @@
 
 ---
 
-### 🔹 [Bookstore Data Warehouse & ETL Pipeline](https://github.com/AbdallahAhmed7/gravity-books-data-warehouse)
+### 📚 [Bookstore Data Warehouse & ETL Pipeline](https://github.com/AbdallahAhmed7/gravity-books-data-warehouse)
 > **Stack:** SSIS · SQL Server · T-SQL · Power BI
 
 - Architected a **Galaxy Schema** data warehouse and built SSIS ETL pipelines with **SCD Type 1 & 2** handling
@@ -138,7 +139,7 @@
 
 ---
 
-### 🔹 [User Data ETL & Analytics Pipeline](https://github.com/AbdallahAhmed7/User-Data-ETL-Analytics-Pipeline)
+### 👥 [User Data ETL & Analytics Pipeline](https://github.com/AbdallahAhmed7/User-Data-ETL-Analytics-Pipeline)
 > **Stack:** Python · Pandas · Seaborn · Docker · REST API
 
 - Built a **containerized ETL pipeline** with Docker to ingest and process paginated JSON data from a REST API
@@ -146,7 +147,7 @@
 
 ---
 
-### 🔹 [Amazon Price Intelligence Tool](https://github.com/AbdallahAhmed7/Amazon-Price-Intelligence)
+### 🛒 [Amazon Price Intelligence Tool](https://github.com/AbdallahAhmed7/Amazon-Price-Intelligence)
 > **Stack:** Python · Pandas · Requests · BeautifulSoup · SMTP
 
 - Automated web scraping pipeline tracking Amazon product prices over time
