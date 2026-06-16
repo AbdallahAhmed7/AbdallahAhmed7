@@ -32,14 +32,21 @@
 <table>
   <tr>
     <td align="center">
-      <img width="60" height="60" alt="amazon-s3-svgrepo-com" src="https://github.com/user-attachments/assets/a406d595-7cf3-4d38-b5fe-9f2f778bb8e7" /><br/>
-      <sub><b>AWS S3</b></sub>
-    </td>
+      <img width="60" height="60" alt="PYTHON" src="https://github.com/user-attachments/assets/306f8a94-0759-48e0-b307-abfa8d2f326f" /><br/>
+      <sub><b>PYTHON</b></sub>
     <td align="center">
-      <img width="60" height="60" alt="snowflake-data-cloud-icon" src="https://github.com/user-attachments/assets/fee697ae-fba9-4d21-b9b8-4a60f45cafe9" /><br/>
-      <sub><b>Snowflake</b></sub>
+      <img width="60" height="60" alt="SQL" src="https://github.com/user-attachments/assets/03faddeb-e80c-4e5b-a836-1e50affd3020" /><br/>
+      <sub><b>SQL</b></sub>
+    <td align="center">
+      <img width="60" height="70" alt="NoSQL" src="https://github.com/user-attachments/assets/c8022830-86e6-464e-8eb3-d5462019c6d0" /><br/>
+      <sub><b>NoSQL</b></sub>
+    <td align="center">
+      <img width="60" height="60" alt="C++" src="https://github.com/user-attachments/assets/98739611-1ad9-4709-9366-386db2de15e6" /><br/>
+      <sub><b>C++</b></sub>           
   </tr>
 </table>
+
+
 
 ### ⚙️ Data Engineering
 <table>
