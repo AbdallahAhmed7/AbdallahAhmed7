@@ -58,7 +58,7 @@
       <img width="60" height="60" alt="airflow" src="https://github.com/user-attachments/assets/6e07e726-3ea1-4ddf-b5d3-a5afa457a369" /><br/>
       <sub><b>AIRFLOW</b></sub>
     <td align="center">
-      <img width="70" height="60" alt="SPARK" src="https://github.com/user-attachments/assets/a0211441-66ea-41b1-a8c4-f0608fb518d6" /><br/>
+      <img width="70" height="60" alt="SPARK" src="https://github.com/user-attachments/assets/e5450daf-d0ae-44f6-a45e-c7b4a4be170b" /><br/>
       <sub><b>SPARK</b></sub>
     <td align="center">
       <img width="60" height="60" alt="dbt" src="https://github.com/user-attachments/assets/6aeff1ac-733a-4172-8ce4-02cb94a65e6f" /><br/>
