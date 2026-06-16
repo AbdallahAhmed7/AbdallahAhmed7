@@ -115,8 +115,9 @@
 |---|---|---|---|
 | B.Sc. Engineering | Mechatronics Engineering | [Cairo University](https://cu.edu.eg/) | Sep 2019 – Jun 2024 |
 
-> 🏆 Graduation Project: **Advanced Driver Assistance System** — mentored by **Valeo**, graded **Excellent**
-> Ranked **top 33 / 500+** finalists in the Valeo Graduation Project Program
+> 🏆 Graduation Project: **Advanced Driver Assistance System** — mentored by **Valeo**, graded **Excellent**.
+> 
+> **Ranked** among the top teams selected to present at the Valeo Demo Day as part of the Valeo Graduation Project Program.
 
 ---
 
