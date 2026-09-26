@@ -12,10 +12,11 @@
 - 🎓 B.Sc. Mechatronics Engineering — **Cairo University** 
 - 🏫 **Data Engineering Graduate @ ITI** 
 - 🔧 Builds end-to-end ETL/ELT pipelines, cloud data warehouses & real-time streaming systems
-- ☁️ Works with **Spark, Kafka, Airflow, dbt, Snowflake & AWS** on production-grade data workflows
-- 📊 Turns raw data into insights through dimensional modeling, analytics & Power BI dashboards
+- ☁️ Works with **GCP, Airflow,Spark, dbt, Snowflake & AWS** on production-grade data workflows
+- 📊 Turns raw data into insights through dimensional modeling, analytics & **Power Bi** dashboards
 - 🚀 Passionate about scalable data architecture and solving real problems with data
 
+  
   
 </td>
 <td valign="top" width="50%">
@@ -24,94 +25,7 @@
 </tr>
 </table>
 
----
 
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-<table>
-  <tr>
-    <td align="center">
-      <img width="60" height="60" alt="PYTHON" src="https://github.com/user-attachments/assets/306f8a94-0759-48e0-b307-abfa8d2f326f" /><br/>
-      <sub><b>PYTHON</b></sub>
-    <td align="center">
-      <img width="60" height="60" alt="SQL" src="https://github.com/user-attachments/assets/03faddeb-e80c-4e5b-a836-1e50affd3020" /><br/>
-      <sub><b>SQL</b></sub>
-    <td align="center">
-      <img width="60" height="65" alt="NoSQL" src="https://github.com/user-attachments/assets/c8022830-86e6-464e-8eb3-d5462019c6d0" /><br/>
-      <sub><b>NoSQL</b></sub>
-    <td align="center">
-      <img width="60" height="60" alt="C++" src="https://github.com/user-attachments/assets/98739611-1ad9-4709-9366-386db2de15e6" /><br/>
-      <sub><b>C++</b></sub> 
-    <td align="center">
-      <img width="60" height="60" alt="Bash/Linux" src="https://github.com/user-attachments/assets/13c083b3-82b8-40b6-91e7-175942ba4d3c" /><br/>
-      <sub><b>Bash/Linux</b></sub>          
-  </tr>
-</table>
-
-
-### 🧭⚙️ Orchestration & Processing
-<table>
-  <tr>
-    <td align="center">
-      <img width="60" height="60" alt="airflow" src="https://github.com/user-attachments/assets/6e07e726-3ea1-4ddf-b5d3-a5afa457a369" /><br/>
-      <sub><b>AIRFLOW</b></sub>
-    <td align="center">
-      <img width="70" height="60" alt="SPARK" src="https://github.com/user-attachments/assets/e5450daf-d0ae-44f6-a45e-c7b4a4be170b" /><br/>
-      <sub><b>SPARK</b></sub>
-    <td align="center">
-      <img width="60" height="60" alt="dbt" src="https://github.com/user-attachments/assets/6aeff1ac-733a-4172-8ce4-02cb94a65e6f" /><br/>
-      <sub><b>dbt</b></sub>
-    </td>
-    <td align="center">
-      <img width="60" height="60" alt="SSIS" src="https://github.com/user-attachments/assets/a801c208-aee3-4b14-9e3a-5a550aba9c0f" /><br/>
-      <sub><b>SSIS</b></sub>   
-    <td align="center">
-      <img width="60" height="60" alt="KAFKA" src="https://github.com/user-attachments/assets/5cf22235-5bda-4295-b01c-3bb68db077f8" /><br/>
-      <sub><b>KAFKA</b></sub>   
-  </tr>
-</table>
-
-
-### ☁️📦 Cloud & Databases
-<table>
-  <tr>
-    <td align="center">
-      <img width="60" height="60" alt="amazon-s3" src="https://github.com/user-attachments/assets/a406d595-7cf3-4d38-b5fe-9f2f778bb8e7" /><br/>
-      <sub><b>AWS S3</b></sub>
-    <td align="center">
-      <img width="60" height="60" alt="snowflake" src="https://github.com/user-attachments/assets/fee697ae-fba9-4d21-b9b8-4a60f45cafe9" /><br/>
-      <sub><b>Snowflake</b></sub>
-    <td align="center">
-      <img width="65" height="65" alt="SQL SERVER" src="https://github.com/user-attachments/assets/d4f4f0fa-ac9b-41c9-acb0-5a39215bc571" /><br/>
-      <sub><b>SQL SERVER</b></sub>
-    <td align="center">
-      <img width="60" height="60" alt="MongoDB" src="https://github.com/user-attachments/assets/028876fa-2340-4d6b-ab11-126268db448f" /><br/>
-      <sub><b>MongoDB</b></sub>      
-  </tr>
-</table>
-
-
-### ♾️📈 DevOps & BI
-<table>
-  <tr>
-    <td align="center">
-      <img width="60" height="60" alt="Docker" src="https://github.com/user-attachments/assets/465ed4c5-4a9b-432c-ae44-c2076882e956" /><br/>
-      <sub><b>Docker</b></sub>
-    <td align="center">
-      <img width="60" height="60" alt="Git" src="https://github.com/user-attachments/assets/a738b3c2-a500-46ab-8054-b028c7fef463" /><br/>
-      <sub><b>Git</b></sub>
-    <td align="center">
-      <img width="65" height="65" alt="Jenkins" src="https://github.com/user-attachments/assets/62fb1516-3133-4554-89e2-56ce8e5cbfcc" /><br/>
-      <sub><b>Jenkins</b></sub>
-    <td align="center">
-      <img width="60" height="60" alt="PowerBI" src="https://github.com/user-attachments/assets/25586791-5827-4260-902e-47f4b3eb36e8" /><br/>
-      <sub><b>PowerBI</b></sub>      
-  </tr>
-</table>
-
----
 
 ## 💼 Featured Projects
 
